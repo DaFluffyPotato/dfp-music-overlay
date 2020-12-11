@@ -13,7 +13,7 @@ might release an executable later...
 - OBS compatible overlay that shows the embeded cover, album, artist, and title of MP3 files
 - lightweight
 - customizable visuals through CSS
-- no windows and managed by hotkeys
+- no windows (only visible in OBS and the recording/stream) and managed by hotkeys
 - supports playing albums and singles randomly
 
 ## Dependencies
