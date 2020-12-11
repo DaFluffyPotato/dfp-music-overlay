@@ -8,6 +8,14 @@ might release an executable later...
 ![](https://i.ibb.co/bRgt2TL/overlay-tool.png)
 ![](https://i.ibb.co/r48LkXL/image.png)
 
+## Features
+
+- OBS compatible overlay that shows the embeded cover, album, artist, and title of MP3 files
+- lightweight
+- customizable visuals through CSS
+- no windows and managed by hotkeys
+- supports playing albums and singles randomly
+
 ## Dependencies
 
 This script uses Python3 and the following dependencies. Install with the following (`pip3` may be `pip` on some installs):
