@@ -1,0 +1,66 @@
+.cover {
+	float: left;
+	width: 200px;
+	height: 200px;
+	margin-right: 20px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 2px 0px rgba(0, 0, 0, 0.7);
+}
+
+.bg-cover {
+	position: absolute;
+	z-index: -1;
+	width: 1332px;
+	height: 232px;
+	background-image: url("cover.png");
+	background-position: center 40%;
+	top: 4px;
+	left: 4px;
+	border-radius: 0px 70px 15px 0px;
+	background-size: 110%;
+	
+	filter: blur(3px);
+	-webkit-filter: blur(3px);
+}
+
+.info {
+	padding-top: 15px;
+}
+
+.album {
+	font-size: 40px;
+}
+
+.artist {
+	font-style: italic;
+	font-size: 45px;
+}
+
+.all {
+	position: absolute;
+	margin: 0px;
+	background-color: rgba(255, 255, 255, 0.7);
+	width: 1340px;
+	height: 240px;
+	border-radius: 0px 70px 15px 0px;
+	top: 0px;
+	left: 0px;
+	z-index: -2;
+}
+
+body {
+	margin: 0px;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.content {
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	color: rgb(240, 240, 240);
+	margin: 20px;
+	background: linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.5) 60%, rgba(0,0,0,0.2) 100%);
+	width: 1300px;
+	height: 200px;
+	border-radius: 10px 60px 10px 10px;
+	box-shadow: 0px 5px 2px 0px rgba(0, 0, 0, 0.7);
+}
