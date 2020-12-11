@@ -6,6 +6,7 @@ the title, artist, album, and cover are extracted from the sound file.
 might release an executable later...
 
 ![](https://i.ibb.co/bRgt2TL/overlay-tool.png)
+![](https://i.ibb.co/r48LkXL/image.png)
 
 ## Dependencies
 
