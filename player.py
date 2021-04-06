@@ -11,9 +11,15 @@ from flask import Flask
 
 from pynput.keyboard import Key, Listener
 
+import os
+
 import logging
 log = logging.getLogger('werkzeug')
 log.setLevel(logging.ERROR)
+
+print("Hi, there! Please, select the audio format that you will use")
+music_extension = input("> ")
+os.system("cls")
 
 app = Flask(__name__)
 
@@ -34,7 +40,6 @@ def update():
 mixer.init()
 
 MUSIC_FOLDER = 'music'
-music_extension = 'mp3'
 
 key_log = []
 

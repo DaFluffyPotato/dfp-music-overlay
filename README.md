@@ -24,7 +24,7 @@ This script uses Python3 and the following dependencies. Install with the follow
 
 ## Setup
 
-This script runs off of local music. Create a `music` folder in the same directory as `player.py`. Then dump all your music in there. Sub-folders are considered albums and will be played as a group. It's worth noting that the expected file type is `.mp3`, but `.wav` and a few other types may work if you switch the `music_extension` variable in `player.py`.
+This script runs off of local music. Create a `music` folder in the same directory as `player.py`. Then dump all your music in there. Sub-folders are considered albums and will be played as a group. When starting the `player.py` script, in the console you have to indicate the audio format (mp3, wav, ogg, etc) that you will use for the music, without dots.
 
 An album layout example:
 ```
