@@ -11,8 +11,6 @@ from flask import Flask
 
 from pynput.keyboard import Key, Listener
 
-import os
-
 import logging
 log = logging.getLogger('werkzeug')
 log.setLevel(logging.ERROR)
