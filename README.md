@@ -54,3 +54,10 @@ If you have Python3 and all of the dependencies installed, you should just have 
 ## Customization
 
 Since the overlay is rendered as a webpage, you can easily modify the website by modifying the `main.css` and the `main.html` under the `static` folder. Just make sure that all of the `id=`s are kept since the JS script expects those.
+
+## Credits
+
+dfp-music-overlay coded and created by DaFluffyPotato.
+
+#### Contributors
+- Danix - Audio file format input
