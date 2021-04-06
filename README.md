@@ -57,7 +57,7 @@ Since the overlay is rendered as a webpage, you can easily modify the website by
 
 ## Credits
 
-dfp-music-overlay coded and created by DaFluffyPotato.
+dfp-music-overlay coded and created by [DaFluffyPotato](https://github.com/DaFluffyPotato).
 
 #### Contributors
-- Danix - Audio file format input
+- [Danix](https://github.com/Danix421) - Audio file format input
